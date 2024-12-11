@@ -1,0 +1,24 @@
+{
+  "name": "flipdigit",
+  "version": "0.0.1",
+  "description": "A canvas-like drawing library for flipdigit displays",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flip digit",
+    "flip disc",
+    "flip dot",
+    "alfazeta"
+  ],
+  "author": "@kelly",
+  "license": "BSD-3-Clause-Attribution",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "flipdisc": "github:kelly/flipdisc",
+    "gifuct-js": "^2.1.2",
+    "is-url": "^1.2.4"
+  }
+}
